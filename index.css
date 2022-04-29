@@ -1,0 +1,59 @@
+.style0 {
+    text-align: center;
+}
+.style1{
+    font-size: 15px;
+    text-align: center;
+    width: 100px;
+    background-color:rgb(213, 190, 73);
+}
+.style2{
+    font-size: 15px;
+    text-align: center;
+    width: 220px;
+    background-color: rgb(98, 171, 97);
+
+}
+.style3{
+    font-size: 15px;
+    text-align: center;
+    width: 180px;
+    background-color: rgb(81, 140, 166);
+}
+.style4{
+    font-size: 15px;
+    text-align: center;
+    width: 200px;
+    background-color: rgb(128, 114, 198);
+}
+.style5{
+    font-size: 15px;
+    text-align: center;
+    width: 200px;
+    background-color: rgb(236, 180, 101);
+}
+.style6{
+    font-size: 15px;
+    text-align: center;
+    width: 100px;
+    background-color: rgb(103, 99, 100);
+}
+.style7{
+    font-size: 15px;
+    text-align: center;
+    width : 70px;
+    background-color: pink;
+}
+.style8{
+    font-size: 15px;
+    text-align: center;
+    width: 100px;
+    background-color: aqua;
+}
+.table{
+    border-collapse: collapse;
+}
+.style9{
+    width: 10px;
+    height: 10px;
+}
